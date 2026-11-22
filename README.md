@@ -32,4 +32,7 @@ Then visit <http://localhost:8000>.
 ## Language switch
 
 The EN/DE button switches all translated page copy and updates the document language. The selected language is saved in browser local storage when available.
-# omkar-kale-portfolio
+
+### Add your profile photo
+
+Place `Portfolio_Profile_Picture.png` in the same folder as `index.html` before publishing. The profile card is already configured to display it inside a circular frame. Keep the filename and capitalization exactly as shown.
